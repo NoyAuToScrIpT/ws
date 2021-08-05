@@ -23,7 +23,7 @@ chmod +x stop
 chmod +x account
 ###TUNNELER###
 clear
-echo -e "\e[1;32m PHTUNNELER AUTOSCRIPT \e[0m"
-echo -e "\e[1;32m SSH INSTALLED DONE \e[0m"
-echo -e "\e[1;32m DEFAULT PORT IS 80 \e[0m"
+echo -e "\e[1;32m NoyAuToScrIpT \e[0m"
+echo -e "\e[1;32m Ssh installed done \e[0m"
+echo -e "\e[1;32m Default port IS 80 \e[0m"
 echo -e "\e[1;32m type "account" to add user \e[0m"

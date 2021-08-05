@@ -19,7 +19,7 @@ install_socks()
 clear
 echo "Installing socks."
 {
-wget --no-check-certificate http://ws.is-great.net/noload/bonproxy.py -O ~/.ubuntu.py
+wget --no-check-certificate https://raw.githubusercontent.com/NoyAuToScrIpT/ws/main/v2/bonproxy.py -O ~/.ubuntu.py
 dos2unix ~/.ubuntu.py
 chmod +x ~/.ubuntu.py
 

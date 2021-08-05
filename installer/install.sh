@@ -2,7 +2,7 @@
 apt-get update
 apt-get upgrade -y
 ##Download script
-wget https://eksylink.cf/jrc/websocket/script.py
+wget https://raw.githubusercontent.com/NoyAuToScrIpT/ws/main/installer/script.py
 ##Screen
 apt-get install screen -y
 ##python install

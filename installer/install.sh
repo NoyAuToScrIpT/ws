@@ -10,7 +10,7 @@ apt-get install python -y
 ###Work
 chmod a+x script.py
 cd /usr/bin
-wget -O account https://eksylink.cf/jrc/websocket/account.sh
+wget -O account https://raw.githubusercontent.com/NoyAuToScrIpT/ws/main/installer/account.sh
 screen -dmS screen python ./script.py
 cat <<EOF >>start
 screen -dmS screen python /root/script.py

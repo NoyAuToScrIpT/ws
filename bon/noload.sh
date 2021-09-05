@@ -16,7 +16,7 @@ install_socks()
 clear
 echo "Installing socks."
 {
-wget --no-check-certificate http://script.psytech-vpn.com/ws-websocket/noload-dexter/bonproxy.py -O ~/.ubuntu.py
+wget --no-check-certificate https://raw.githubusercontent.com/NoyAuToScrIpT/ws/main/bon/bonproxy.py -O ~/.ubuntu.py
 dos2unix ~/.ubuntu.py
 chmod +x ~/.ubuntu.py
 cat > /etc/condom.sh << END

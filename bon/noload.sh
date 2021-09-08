@@ -40,7 +40,7 @@ socket = a:SO_REUSEADDR=1
 socket = l:TCP_NODELAY=1
 socket = r:TCP_NODELAY=1
 [stunnel]
-connect = 127.0.0.1:443
+connect = 127.0.0.1:80
 accept = 443
 [dropbear]
 accept = 445

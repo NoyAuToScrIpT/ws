@@ -1,0 +1,7 @@
+{
+"versionCode":版本号,整形,
+"versionName":"版本名",
+"describe":"版本描述",
+"constraint":布尔值,
+"url":"If you want to use the app, you can use it"
+}

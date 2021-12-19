@@ -1,7 +1,11 @@
 {
-"versionCode":1,
-"versionName":"1.0",
-"describe":"1",
-"constraint":2,
-"url":"If you want to use the app, you can use it"
+    "versionName": "2.0",
+    "versionCode": "2",
+    "url": "https://raw.githubusercontent.com/msay2/Simple-AppUpdaterJSON-/master/app.apk",
+    "release": 
+    [
+        "- test",
+        "- test !",
+        "- test"
+    ]
 }
